@@ -1,0 +1,10 @@
+1. Seviye: Basit Soru: Kullanıcıdan iki sayı alarak bu sayıları toplayan bir programın
+pseudo kodunu yazın.
+
+
+Başla
+Sayı1'i kullanıcıdan al
+Sayı2'yi kullanıcıdan al
+Toplam = Sayı1 + Sayı2
+Toplamı ekrana yazdır
+Bitir
