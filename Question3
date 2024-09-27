@@ -1,0 +1,23 @@
+3. Seviye: İleri Soru: Kullanıcıdan alınan bir sayının asal olup olmadığını bulan bir
+programın pseudo kodu.
+
+
+Başla
+Sayıyı kullanıcıdan al
+Eğer sayı 1 ise
+"Asal değil" yazdır
+Aksi halde
+Sayının asal olup olmadığını kontrol etmek için
+Sayaç = 2
+Asal_Mı = Evet
+Döngü sayaç < sayı
+Eğer sayı % sayaç == 0 ise
+AsalMi = Hayır
+Döngüden çık
+Sayaç = Sayaç + 1
+Döngü bitti
+Eğer Asal_Mı == Evet ise
+"Asal" yazdır
+Aksi halde
+"Asal değil" yazdır
+Bitir
