@@ -1,0 +1,13 @@
+2. Seviye: Orta Soru: 1'den 100'e kadar olan sayıları toplayan bir programın pseudo
+kodunu yazın.
+
+
+Başla
+Toplam = 0
+Sayaç = 1
+Döngü sayaç 100'e kadar
+Toplam = Toplam + Sayaç
+Sayaç = Sayaç + 1
+Döngü bitti
+Toplamı ekrana yazdır
+Bitir
